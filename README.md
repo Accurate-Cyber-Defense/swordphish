@@ -14,6 +14,7 @@
 
 Swordfish is a powerful cybersecurity tool designed to support security awareness training, authorized security assessments, and cyber defense exercises. The tool enables security professionals, trainers, and organizations to manage and coordinate cybersecurity activities through multiple communication channels, including Telegram, Slack, Discord, iMessage, web applications, and other messaging platforms.
 
+
 Built to simplify cybersecurity operations, Swordfish allows users to send commands, automate training scenarios, monitor engagement, and collect actionable security metrics from a centralized interface. The tool helps organizations evaluate their security posture by conducting controlled security awareness campaigns, phishing simulations, and social engineering assessments within authorized environments.
 
 Swordfish is designed for use in red team, blue team, and purple team exercises, providing realistic scenarios that help security professionals understand modern attack techniques and improve defensive capabilities. Security teams can use the tool to test employee awareness, measure organizational readiness, and strengthen incident response procedures.
